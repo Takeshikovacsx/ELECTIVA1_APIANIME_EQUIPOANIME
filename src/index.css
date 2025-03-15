@@ -1,0 +1,45 @@
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h1{
+  text-align: center;
+  margin-bottom: 20px;
+}
+#titulo{
+  font-weight: bold;
+  color: #2c3e50;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 20px 0;
+}
+
+#caja{
+
+  display: flex;
+}
+
+#container{
+  margin-top: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+  background: border-box;
+}
+
+#imagen{
+  align-content: center;
+  border-radius: 20px;
+  border: solid 2;
+  border-color:#2c3e50;
+  width: auto;
+}
+#img{
+  width: auto;
+  height: 200x;
+  object-fit: cover;
+  border-radius: 20px;
+  border: solid 2px;
+}
