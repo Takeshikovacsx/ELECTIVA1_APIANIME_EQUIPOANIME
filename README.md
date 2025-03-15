@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# #Electiva 1
+Api Anime.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Equipo Anime.
 
-## Available Scripts
+HANNER ALEJANDRO HERRERA DÍAZ 
+YEIDER JAIR MURILLO CORDOBA 
+JACKELINE GALINDO GARCIA.
 
-In the project directory, you can run:
+This project is responsible for consuming an API to be able to consult information about anime.
 
-### `npm start`
+### Prerequisites
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Node.js: Ensure Node.js is installed on your system. You can download it from nodejs.org.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Git: Ensure Git is installed to clone the repository.
 
-### `npm test`
+API Key: If the project requires an external API key (e.g., for an anime database), make sure you have it ready.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Programming Languages
 
-### `npm run build`
+JavaScript: The primary language for building the API, especially if it's a Node.js-based project.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Frameworks
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Node.js: A runtime environment for executing JavaScript on the server side.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Frontend: Bootstrap
 
-### `npm run eject`
+Bootstrap: A popular CSS framework for building responsive and mobile-first websites.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+CSS: For styling the website.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+JavaScript: For interactive components like modals, dropdowns, and carousels.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Bootstrap Icons: For scalable vector icons.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Sass (optional): For customizing Bootstrap's styles using its Sass variables.
 
-## Learn More
+## Version Control and Collaboration: GitHub
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Git: The version control system used to track changes in the codebase.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+GitHub: A platform for hosting Git repositories and collaborating on projects.
